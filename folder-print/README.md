@@ -8,7 +8,8 @@ USAGE
 -----
 
 Just call the script with the folder you want to watch.
-```bash
+
+```
 ruby folder-print.rb /path/to/folder
 ```
 
@@ -16,3 +17,4 @@ TODO
 ----
 
  - Make a CLI
+ - Write Some Docs and help
